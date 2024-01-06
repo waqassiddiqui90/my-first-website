@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2f93d6;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+#about {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color:#2f93d6;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
